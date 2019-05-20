@@ -1,0 +1,15 @@
+<!--Learned to improve compatibility with browser fallbacks.-->
+<!--The answer was counter intuitive. I attempted several variations.  Finally the simple one toodl-->
+
+<style>
+  :root {
+    --red-color: red;
+  }
+  .red-box {
+    background: red;
+    background: var(--red-color);
+    height: 200px;
+    width:200px;
+  }
+</style>
+<div class="red-box"></div>

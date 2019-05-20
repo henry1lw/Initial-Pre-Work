@@ -1,0 +1,12 @@
+<!--Learned about prioritizing one style over anohter.-->
+<!--It took 5 attempts to get it correct.  I forgot to remove the > after the h1 element.-->
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text{color: pink;}
+</style>
+<h1 class="pink-text">Hello World!</h1>

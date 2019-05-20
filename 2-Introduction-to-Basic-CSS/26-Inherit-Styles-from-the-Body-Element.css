@@ -1,0 +1,11 @@
+<!--Learned how to inherit styles from the body element.-->
+<!--In this case, I don't understand why in the body element body {} only color is used versus body-color.__>
+
+  <h1>Hello World</h1>
+
+  <style>
+    body {
+      color: green;
+    }
+  body {font-family: monospace;}
+  </style>

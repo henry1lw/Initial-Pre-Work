@@ -1,0 +1,8 @@
+<!--Learned to use RGB value for color elements.-->
+<!--Learned that the syntax is precise.  There is no space between rgb and the first bracket().-->
+
+<style>
+  body {
+    background-color: rgb(0, 0, 0);
+  }
+</style>
